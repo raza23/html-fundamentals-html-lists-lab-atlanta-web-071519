@@ -8,16 +8,17 @@
 <body>
   <h1>Title</h1>
   <h2>Subtitle</h2>
+    <ul>
+      <li>2 Slices of Bread</li>
+      <li>4 Slices of Cheese</li>
+      <li>1 Tbsp Butter</li>
+
+    </ul>
   <h3>Sub-Subtitle</h3>
   <p>Hello World</p>
 
   <p>Hello Moon</p>
 
-  <ul>
-  <li>2 Slices of Bread</li>
-  <li>4 Slices of Cheese</li>
-  <li>1 Tbsp Butter</li>
 
-</ul>
 </body>
 </html>
