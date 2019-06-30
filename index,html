@@ -1,26 +1,8 @@
 <!DOCTYPE html>
 
 <html lang="en">
-<head>
-  <title>Hey</title>
-  <link rel="stylesheet" type="text/css" href="style.css">
-</head>
 <body>
-  <h1>Title</h1>
-  <h2>Subtitle</h2>
   <ul>
-  <li>Sandwiches
-    <ul>
-      <li>Ham and Cheese</li>
-      <li>Grilled Cheese</li>
-    </ul>
   </ul>
-  </li>
-  <h3>Sub-Subtitle</h3>
-  <p>Hello World</p>
-
-  <p>Hello Moon</p>
-
-
 </body>
 </html>
